@@ -1,0 +1,23 @@
+@media (max-width: 991px) {
+    .navbar-nav {
+      text-align: center;
+      background: #fff;
+      padding: 10px;
+    }
+  
+    .navbar-nav .nav-item {
+      display: block;
+      margin: 5px 0;
+    }
+  
+    .navbar-toggler {
+      border: none;
+      outline: none;
+    }
+  
+    .navbar-toggler-icon {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  
