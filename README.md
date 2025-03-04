@@ -18,8 +18,8 @@ At wearesshop sixteen clothing, our mission is to provide the highest quality cl
 ## Contact Us
 Have questions, feedback, or just want to say hello? Feel free to reach out to us:
 
-- Location: 
-- Phone: 
-- Email: 
-- Website: 
-- Social Media: 
+- Location: Iconsiam
+- Phone: 0987654321
+- Email: wearesshop sixteen clothing@gmail.com
+- Website: https://www.wearesshop sixteen clothing
+- Social Media: IG: wearesshop sixteen clothing
