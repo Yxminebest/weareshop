@@ -1,0 +1,16 @@
+.banner-item-01,
+.banner-item-02,
+.banner-item-03 {
+  animation: fadeInSlide 1.5s ease-in-out;
+}
+
+@keyframes fadeInSlide {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
